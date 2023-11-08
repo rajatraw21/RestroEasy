@@ -1,0 +1,13 @@
+.categoryFlex {
+  padding: 12px;
+  width: 8rem;
+}
+.categoryFlex:hover {
+  background: rgba(255, 255, 255, 0.54) !important;
+  border-radius: 1rem;
+}
+.category-active {
+  box-shadow: none;
+  background: rgba(255, 255, 255, 0.54) !important;
+  border-radius: 1rem;
+}
